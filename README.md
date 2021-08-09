@@ -7,7 +7,7 @@
 - 📫 How to reach me **caganbaser64@gmail.com**
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=41y249roaraucwt5iak7z84rs&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=41y249roaraucwt5iak7z84rs&redirect=true&rainbow=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=41y249roaraucwt5iak7z84rs&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api?spin=trueuid=41y249roaraucwt5iak7z84rs&redirect=true&rainbow=true)
 
 
 <h3 align="left">My Links:</h3>
