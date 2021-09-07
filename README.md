@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Çağan</h1>
 
-- 🐱‍💻 I’m currently learning **Python**
+- 🐱‍💻 I’m currently learning **HTML/CSS**
 
 - 📝 I regularly write articles on my blog [https://caganbaser.blogspot.com/](https://caganbaser.blogspot.com/)
 
